@@ -33,6 +33,25 @@ My work through **PROCESS IN** focuses on solving real operational problems with
 | **Infrastructure** | Production deployments, hosting, reliability and operations |
 | **Product Design** | Accessible, responsive interfaces and cohesive design systems |
 
+### PROCESS IN product portfolio
+
+PROCESS IN maintains a portfolio of **41 associated domains** spanning business software, vertical SaaS, AI tools, ticketing, developer products and internal systems. Domain status is owner-reported; product availability and feature completeness may vary.
+
+| Product | Focus |
+| :--- | :--- |
+| [EVENTO](https://evento.mk) | Event ticketing and organizer operations |
+| [DentalDesk](https://dentaldesk.mk) | Dental practice software |
+| [VetDesk](https://vetdesk.mk) | Veterinary practice software |
+| [AssetDesk](https://assetdesk.mk) | IT asset management |
+| [EstateSpace](https://estatespace.mk) | White-label real estate websites |
+| [Coder](https://coder.mk) | AI no-code builder |
+| [CodeHub](https://codehub.mk) | Developer projects and tools |
+| [Validate](https://validate.mk) | Surveys and validation |
+| [Toolkit](https://toolkit.mk) | Online productivity utilities |
+| [Flowing](https://flowing.mk) | Internal domain intelligence |
+
+**[Browse all 41 domains — English](https://github.com/stambolce/process-in/blob/main/docs/registry.en.md) · [Македонски](https://github.com/stambolce/process-in/blob/main/docs/registry.mk.md)**
+
 ### Engineering toolkit
 
 ![Laravel](https://img.shields.io/badge/Laravel-Framework-111827?style=flat-square)
