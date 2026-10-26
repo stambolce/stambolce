@@ -15,6 +15,7 @@
 | [DentalDesk](https://github.com/stambolce/dentaldesk-practice-management) | Стоматолошки ординации |
 | [VetDesk](https://github.com/stambolce/vetdesk-veterinary-software) | Ветеринарни клиники |
 | [AssetDesk](https://github.com/stambolce/assetdesk-it-asset-management) | ИТ средства и инвентар |
+| [MailBoost](https://github.com/stambolce/mailboost-email-platform) | Интерна платформа за деловни email кампањи |
 | [GoPlay](https://github.com/stambolce/goplay-sports-marketplace) | Спортски маркетплејс, активности и услуги |
 | [TeamDesk](https://github.com/stambolce/teamdesk-sports-performance) | Спортски тренинг, тренери и перформанси на спортисти |
 | [Appify](https://github.com/stambolce/appify-mobile-app-builder) | Претворање веб-страници во мобилни апликации |
