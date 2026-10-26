@@ -31,6 +31,7 @@ The repositories below are **public product showcases and documentation**. Propr
 | **[DentalDesk — Dental Practice Management](https://github.com/stambolce/dentaldesk-practice-management)** | Dental patient and clinical practice workflows | [dentaldesk.mk](https://dentaldesk.mk) |
 | **[VetDesk — Veterinary Practice Management](https://github.com/stambolce/vetdesk-veterinary-software)** | Veterinary clinic workflows, records and inventory | [vetdesk.mk](https://vetdesk.mk) |
 | **[AssetDesk — IT Asset Management](https://github.com/stambolce/assetdesk-it-asset-management)** | Asset lifecycle, equipment inventory and QR workflows | [assetdesk.mk](https://assetdesk.mk) |
+| **[GoPlay — Sports Marketplace](https://github.com/stambolce/goplay-sports-marketplace)** | Sports activities, provider discovery and services | [goplay.mk](https://goplay.mk) |
 | **[TeamDesk — Sports Training & Athlete Performance](https://github.com/stambolce/teamdesk-sports-performance)** | Training planning, coaching, playbooks and athlete analytics | [teamdesk.mk](https://teamdesk.mk) |
 | **[Appify — Website to Mobile App Builder](https://github.com/stambolce/appify-mobile-app-builder)** | Website-to-app platform with Android and WordPress product direction | [appify.mk](https://appify.mk) |
 | **[EstateSpace — White-Label Real Estate SaaS](https://github.com/stambolce/estatespace-real-estate-saas)** | Branded property websites for real estate agencies | [estatespace.mk](https://estatespace.mk) |
