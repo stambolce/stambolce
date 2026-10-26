@@ -1,86 +1,85 @@
 <div align="center">
 
 # STAMBOL DEV.
+### Founder of PROCESS IN · Software Engineer · SaaS Product Architect
 
-### Building software that runs businesses.
+**Enterprise Software · Vertical SaaS · AI & Automation · Digital Infrastructure**
 
-**Full-Stack Software Engineer · SaaS Architect · AI & Automation**
+Building practical software products, from idea and architecture to production.
 
-Founder of **[PROCESS IN](https://processin.mk)** · North Macedonia
-
-[![PROCESS IN](https://img.shields.io/badge/PROCESS%20IN-Official%20Website-1263EB?style=for-the-badge)](https://processin.mk)
-[![Company Docs](https://img.shields.io/badge/Company-Documentation-111827?style=for-the-badge)](https://github.com/stambolce/process-in)
-[![Email](https://img.shields.io/badge/Business-Contact-1263EB?style=for-the-badge)](mailto:contact@processin.mk)
+[![PROCESS IN](https://img.shields.io/badge/PROCESS_IN-Official_Website-1476E8?style=for-the-badge)](https://processin.mk)
+[![GitHub Portfolio](https://img.shields.io/badge/PRODUCTS-GitHub_Portfolio-111827?style=for-the-badge)](https://github.com/stambolce/process-in)
+[![Macedonian](https://img.shields.io/badge/МАКЕДОНСКИ-Прочитај-1476E8?style=for-the-badge)](README.mk.md)
+[![Contact](https://img.shields.io/badge/CONTACT-Business_Inquiries-111827?style=for-the-badge)](mailto:contact@processin.mk)
 
 </div>
 
 ---
 
-## Hello, I'm Stambol Dev.
+## Software products, not just projects
 
-I design, build and operate production software: from **custom business platforms** to **multi-tenant SaaS**, **AI-assisted workflows**, integrations and infrastructure.
+I'm the founder of **[PROCESS IN](https://processin.mk)**, a software engineering and AI solutions company based in North Macedonia. My work spans multi-tenant SaaS, industry software, business automation, developer platforms, payments, systems integration and production operations.
 
-My work through **PROCESS IN** focuses on solving real operational problems with reliable engineering, clear UX and maintainable architecture.
+The repositories below are **public product showcases and documentation**. Proprietary application code, customer data and production credentials are not published.
 
-### What I build
+## Featured PROCESS IN platforms
 
-| Area | Focus |
-| :--- | :--- |
-| **SaaS Engineering** | Multi-tenant platforms, subscriptions, billing, entitlements and portals |
-| **Business Software** | CRM, operations, workflows, dashboards and industry-specific systems |
-| **AI & Automation** | AI integrations, intelligent workflows and productivity tooling |
-| **Systems & APIs** | Third-party integrations, webhooks, security and data flows |
-| **Infrastructure** | Production deployments, hosting, reliability and operations |
-| **Product Design** | Accessible, responsive interfaces and cohesive design systems |
-
-### PROCESS IN product portfolio
-
-PROCESS IN maintains a portfolio of **41 associated domains** spanning business software, vertical SaaS, AI tools, ticketing, developer products and internal systems. Domain status is owner-reported; product availability and feature completeness may vary.
-
-| Product | Focus |
-| :--- | :--- |
-| [EVENTO](https://evento.mk) | Event ticketing and organizer operations |
-| [DentalDesk](https://dentaldesk.mk) | Dental practice software |
-| [VetDesk](https://vetdesk.mk) | Veterinary practice software |
-| [AssetDesk](https://assetdesk.mk) | IT asset management |
-| [EstateSpace](https://estatespace.mk) | White-label real estate websites |
-| [Coder](https://coder.mk) | AI no-code builder |
-| [CodeHub](https://codehub.mk) | Developer projects and tools |
-| [Validate](https://validate.mk) | Surveys and validation |
-| [Toolkit](https://toolkit.mk) | Online productivity utilities |
-| [Flowing](https://flowing.mk) | Internal domain intelligence |
-
-**[Browse all 41 domains — English](https://github.com/stambolce/process-in/blob/main/docs/registry.en.md) · [Македонски](https://github.com/stambolce/process-in/blob/main/docs/registry.mk.md)**
-
-### Engineering toolkit
-
-![Laravel](https://img.shields.io/badge/Laravel-Framework-111827?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-Backend-1263EB?style=flat-square)
-![Vue](https://img.shields.io/badge/Vue-Frontend-111827?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-1263EB?style=flat-square)
-![MariaDB](https://img.shields.io/badge/MariaDB-Database-111827?style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-Database-1263EB?style=flat-square)
-![REST APIs](https://img.shields.io/badge/REST-APIs-111827?style=flat-square)
-![AI](https://img.shields.io/badge/AI-Automation-1263EB?style=flat-square)
-
-### PROCESS IN
-
-**PROCESS IN** is a software engineering and AI solutions company based in North Macedonia. We build SaaS products, custom business applications, AI-enabled solutions and integrated digital infrastructure.
-
-**Explore:** [Official company documentation](https://github.com/stambolce/process-in) · [Website](https://processin.mk) · [Contact](mailto:contact@processin.mk)
-
----
-
-## 🇲🇰 На македонски
-
-Јас сум **Stambol Dev.**, софтверски инженер и основач на **PROCESS IN**. Развивам деловен софтвер, SaaS платформи, AI интеграции, автоматизација и продукциски системи.
-
-**[Прочитај повеќе за PROCESS IN на македонски](https://github.com/stambolce/process-in/blob/main/README.mk.md)**
+| Product & GitHub showcase | What it does | Website |
+|---|---|---|
+| **[FLOWING — Domain & Website Intelligence](https://github.com/stambolce/flowing-domain-intelligence)** | Internal domain discovery, DNS, TLS, website and email intelligence | [flowing.mk](https://flowing.mk) |
+| **[REZERV — Fitness & Wellness Management](https://github.com/stambolce/rezerv-fitness-management)** | Memberships, scheduling, payments and fitness operations | [rezerv.mk](https://rezerv.mk) |
+| **[DentalDesk — Dental Practice Management](https://github.com/stambolce/dentaldesk-practice-management)** | Dental patient and clinical practice workflows | [dentaldesk.mk](https://dentaldesk.mk) |
+| **[VetDesk — Veterinary Practice Management](https://github.com/stambolce/vetdesk-veterinary-software)** | Veterinary clinic workflows, records and inventory | [vetdesk.mk](https://vetdesk.mk) |
+| **[AssetDesk — IT Asset Management](https://github.com/stambolce/assetdesk-it-asset-management)** | Asset lifecycle, equipment inventory and QR workflows | [assetdesk.mk](https://assetdesk.mk) |
+| **[EVENTO — Event Ticketing Platform](https://github.com/stambolce/evento-ticketing-platform)** | Ticket sales, organizer tools and admission validation | [evento.mk](https://evento.mk) |
+| **[CONSTRUCT — Construction Management OS](https://github.com/stambolce/construct-construction-os)** | Construction projects, materials, procurement and operations | [construct.mk](https://construct.mk) |
+| **[CODER — AI Website & App Builder](https://github.com/stambolce/coder-ai-website-builder)** | AI-assisted website and application building | [coder.mk](https://coder.mk) |
+| **[CodeHub — Developer Platform](https://github.com/stambolce/codehub-developer-platform)** | Snippets, projects, prompts and developer resources | [codehub.mk](https://codehub.mk) |
+| **[Toolkit — Online Tools Platform](https://github.com/stambolce/toolkit-online-tools)** | Productivity, development, marketing and security utilities | [toolkit.mk](https://toolkit.mk) |
+| **[VALIDATE — Survey & Research](https://github.com/stambolce/validate-survey-platform)** | Feedback, surveys and idea validation | [validate.mk](https://validate.mk) |
+| **[INHOST — Hosting & Domains](https://github.com/stambolce/inhost-web-hosting)** | Hosting, domain services and business infrastructure | [inhost.mk](https://inhost.mk) |
 
 <div align="center">
 
-**Build with purpose. Engineer for scale.**
+**[Explore PROCESS IN — Company & Product Portfolio](https://github.com/stambolce/process-in)**
 
-[processin.mk](https://processin.mk) · [contact@processin.mk](mailto:contact@processin.mk)
+**[Complete 41-domain registry — English](https://github.com/stambolce/process-in/blob/main/docs/registry.en.md) · [Македонски](https://github.com/stambolce/process-in/blob/main/docs/registry.mk.md)**
+
+</div>
+
+> The registry is a catalog of associated domains, not a claim that all products are commercially available or feature-complete. Statuses are owner-reported. Multiple domains may represent a single product.
+
+## What I engineer
+
+| Discipline | Capabilities |
+|---|---|
+| **SaaS architecture** | Multi-tenancy, onboarding, roles, subscriptions, billing, entitlements |
+| **Industry platforms** | Healthcare practices, fitness, construction, events and operations |
+| **AI & automation** | AI-enabled workflows, content tools, research and business intelligence |
+| **Integrations** | REST APIs, webhooks, payments, imports and external systems |
+| **Product experience** | Responsive applications, dashboards, multilingual UX and design systems |
+| **Infrastructure** | Linux hosting, deployments, security-minded operations and diagnostics |
+
+### Engineering ecosystem
+
+![Laravel](https://img.shields.io/badge/Laravel-Backend-111827?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-Engineering-1476E8?style=flat-square)
+![Vue](https://img.shields.io/badge/Vue-Frontend-111827?style=flat-square)
+![MariaDB](https://img.shields.io/badge/MariaDB-Database-1476E8?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-Applications-111827?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-Payments-1476E8?style=flat-square)
+![AI](https://img.shields.io/badge/AI-Automation-111827?style=flat-square)
+
+## PROCESS IN · North Macedonia
+
+**[Company website](https://processin.mk)** · **[Product registry](https://github.com/stambolce/process-in/blob/main/docs/registry.en.md)** · **[Contact](mailto:contact@processin.mk)**
+
+---
+
+<div align="center">
+
+**Built with purpose. Engineered for scale.**
+
+<sub>Public portfolio and documentation only. No proprietary source code or open-source license is implied.</sub>
 
 </div>
