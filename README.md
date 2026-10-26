@@ -31,6 +31,7 @@ The repositories below are **public product showcases and documentation**. Propr
 | **[DentalDesk — Dental Practice Management](https://github.com/stambolce/dentaldesk-practice-management)** | Dental patient and clinical practice workflows | [dentaldesk.mk](https://dentaldesk.mk) |
 | **[VetDesk — Veterinary Practice Management](https://github.com/stambolce/vetdesk-veterinary-software)** | Veterinary clinic workflows, records and inventory | [vetdesk.mk](https://vetdesk.mk) |
 | **[AssetDesk — IT Asset Management](https://github.com/stambolce/assetdesk-it-asset-management)** | Asset lifecycle, equipment inventory and QR workflows | [assetdesk.mk](https://assetdesk.mk) |
+| **[Appify — Website to Mobile App Builder](https://github.com/stambolce/appify-mobile-app-builder)** | Website-to-app platform with Android and WordPress product direction | [appify.mk](https://appify.mk) |
 | **[EstateSpace — White-Label Real Estate SaaS](https://github.com/stambolce/estatespace-real-estate-saas)** | Branded property websites for real estate agencies | [estatespace.mk](https://estatespace.mk) |
 | **[EVENTO — Event Ticketing Platform](https://github.com/stambolce/evento-ticketing-platform)** | Ticket sales, organizer tools and admission validation | [evento.mk](https://evento.mk) |
 | **[CONSTRUCT — Construction Management OS](https://github.com/stambolce/construct-construction-os)** | Construction projects, materials, procurement and operations | [construct.mk](https://construct.mk) |
