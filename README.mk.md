@@ -63,3 +63,10 @@
 | [WedFlow](https://github.com/stambolce/wedflow-platform) | [wedflow.mk](https://wedflow.mk) | LIVE |
 | [ClockScript](https://github.com/stambolce/clockscript-platform) | [clockscript.mk](https://clockscript.mk) | LIVE |
 | [TrafficPilot](https://github.com/stambolce/trafficpilot-platform) | [trafficpilot.mk](https://trafficpilot.mk) | LIVE |
+
+
+### Дополнителни LIVE презентации
+
+- [Astrology](https://github.com/stambolce/astrology-ai-platform) · [astrology.mk](https://astrology.mk) · AI астрологија и консултации · LIVE
+- [CreativeDesk](https://github.com/stambolce/creativedesk-ai-platform) · [creativedesk.mk](https://creativedesk.mk) · AI содржина и креативна работа · LIVE
+- [HelpDesk](https://github.com/stambolce/helpdesk-support-platform) · [helpdesk.mk](https://helpdesk.mk) · Координација на барања за поддршка · LIVE

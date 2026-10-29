@@ -118,3 +118,10 @@ The repositories below are **public product showcases and documentation**. Propr
 | [WedFlow](https://github.com/stambolce/wedflow-platform) | [wedflow.mk](https://wedflow.mk) | LIVE |
 | [ClockScript](https://github.com/stambolce/clockscript-platform) | [clockscript.mk](https://clockscript.mk) | LIVE |
 | [TrafficPilot](https://github.com/stambolce/trafficpilot-platform) | [trafficpilot.mk](https://trafficpilot.mk) | LIVE |
+
+
+### Additional LIVE showcases
+
+- [Astrology](https://github.com/stambolce/astrology-ai-platform) · [astrology.mk](https://astrology.mk) · AI astrology & consultations · LIVE
+- [CreativeDesk](https://github.com/stambolce/creativedesk-ai-platform) · [creativedesk.mk](https://creativedesk.mk) · AI content & creative work · LIVE
+- [HelpDesk](https://github.com/stambolce/helpdesk-support-platform) · [helpdesk.mk](https://helpdesk.mk) · Support request coordination · LIVE
