@@ -88,3 +88,21 @@ The repositories below are **public product showcases and documentation**. Propr
 <sub>Public portfolio and documentation only. No proprietary source code or open-source license is implied.</sub>
 
 </div>
+
+
+## New PROCESS IN showcases
+
+| Product | Focus | Status |
+|---|---|---|
+| [FindJob](https://github.com/stambolce/findjob-employment-platform) | Employment | LIVE |
+| [Glampoint](https://github.com/stambolce/glampoint-platform) | Salon operations | LIVE |
+| [Influencer](https://github.com/stambolce/influencer-platform) | Creator marketing | LIVE |
+| [Roadmap](https://github.com/stambolce/roadmap-platform) | Product feedback | LIVE |
+| [Vleznica](https://github.com/stambolce/vleznica-platform) | Events & ticketing | LIVE |
+| [VTickets](https://github.com/stambolce/vtickets-platform) | Sports ticketing | LIVE |
+| [WeTransfer.mk](https://github.com/stambolce/wetransfer-mk-platform) | File sharing | LIVE |
+| [Workflow](https://github.com/stambolce/workflow-business-platform) | Recruitment & HR | LIVE |
+| [Workplace](https://github.com/stambolce/workplace-platform) | Freelance marketplace | LIVE |
+| [Prompt](https://github.com/stambolce/prompt-platform) | AI resources | LIVE |
+
+[Categorized catalogue](https://github.com/stambolce/process-in/blob/main/docs/portfolio.en.md)
