@@ -51,3 +51,15 @@
 | [Prompt](https://github.com/stambolce/prompt-platform) | AI ресурси | LIVE |
 
 [Каталог по категории](https://github.com/stambolce/process-in/blob/main/docs/portfolio.mk.md)
+
+
+## Дополнителни PROCESS IN презентации
+
+| Производ | Домен | Статус |
+|---|---|---|
+| [Shorty](https://github.com/stambolce/shorty-url-shortener) | [shorty.mk](https://shorty.mk) | LIVE |
+| [SocialFlow](https://github.com/stambolce/socialflow-messaging-platform) | [socialflow.mk](https://socialflow.mk) | LIVE |
+| [SocialPilot](https://github.com/stambolce/socialpilot-platform) | [socialpilot.mk](https://socialpilot.mk) | LIVE |
+| [WedFlow](https://github.com/stambolce/wedflow-platform) | [wedflow.mk](https://wedflow.mk) | LIVE |
+| [ClockScript](https://github.com/stambolce/clockscript-platform) | [clockscript.mk](https://clockscript.mk) | LIVE |
+| [TrafficPilot](https://github.com/stambolce/trafficpilot-platform) | [trafficpilot.mk](https://trafficpilot.mk) | LIVE |
