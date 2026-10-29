@@ -33,3 +33,21 @@
 > Ова се јавни презентации на производи, не репозиториуми со приватниот изворен код. Статусите во регистарот се според информациите од сопственикот и не значат дека секој производ е комерцијално достапен.
 
 **PROCESS IN · Северна Македонија** · [processin.mk](https://processin.mk)
+
+
+## Нови PROCESS IN презентации
+
+| Производ | Област | Статус |
+|---|---|---|
+| [FindJob](https://github.com/stambolce/findjob-employment-platform) | Вработување | LIVE |
+| [Glampoint](https://github.com/stambolce/glampoint-platform) | Салонско работење | LIVE |
+| [Influencer](https://github.com/stambolce/influencer-platform) | Инфлуенсер маркетинг | LIVE |
+| [Roadmap](https://github.com/stambolce/roadmap-platform) | Повратни информации за производи | LIVE |
+| [Vleznica](https://github.com/stambolce/vleznica-platform) | Настани и билети | LIVE |
+| [VTickets](https://github.com/stambolce/vtickets-platform) | Спортски билети | LIVE |
+| [WeTransfer.mk](https://github.com/stambolce/wetransfer-mk-platform) | Споделување датотеки | LIVE |
+| [Workflow](https://github.com/stambolce/workflow-business-platform) | Регрутација и HR | LIVE |
+| [Workplace](https://github.com/stambolce/workplace-platform) | Фриленс маркетплејс | LIVE |
+| [Prompt](https://github.com/stambolce/prompt-platform) | AI ресурси | LIVE |
+
+[Каталог по категории](https://github.com/stambolce/process-in/blob/main/docs/portfolio.mk.md)
