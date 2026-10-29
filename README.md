@@ -125,3 +125,8 @@ The repositories below are **public product showcases and documentation**. Propr
 - [Astrology](https://github.com/stambolce/astrology-ai-platform) · [astrology.mk](https://astrology.mk) · AI astrology & consultations · LIVE
 - [CreativeDesk](https://github.com/stambolce/creativedesk-ai-platform) · [creativedesk.mk](https://creativedesk.mk) · AI content & creative work · LIVE
 - [HelpDesk](https://github.com/stambolce/helpdesk-support-platform) · [helpdesk.mk](https://helpdesk.mk) · Support request coordination · LIVE
+
+- [LoyaltyHub](https://github.com/stambolce/loyaltyhub-rewards-platform) · [loyaltyhub.mk](https://loyaltyhub.mk) · Loyalty cards, membership clubs and points · LIVE
+- [WooDesk](https://github.com/stambolce/woodesk-platform) · [woodesk.mk](https://woodesk.mk) · Operating system for managing WooCommerce · LIVE
+
+**Workplace / Frilenseri:** [workplace.mk](https://workplace.mk) · [frilenseri.mk](https://frilenseri.mk) · two domains, one freelance platform.

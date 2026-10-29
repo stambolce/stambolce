@@ -70,3 +70,8 @@
 - [Astrology](https://github.com/stambolce/astrology-ai-platform) · [astrology.mk](https://astrology.mk) · AI астрологија и консултации · LIVE
 - [CreativeDesk](https://github.com/stambolce/creativedesk-ai-platform) · [creativedesk.mk](https://creativedesk.mk) · AI содржина и креативна работа · LIVE
 - [HelpDesk](https://github.com/stambolce/helpdesk-support-platform) · [helpdesk.mk](https://helpdesk.mk) · Координација на барања за поддршка · LIVE
+
+- [LoyaltyHub](https://github.com/stambolce/loyaltyhub-rewards-platform) · [loyaltyhub.mk](https://loyaltyhub.mk) · Картички за лојалност, клубови и поени · LIVE
+- [WooDesk](https://github.com/stambolce/woodesk-platform) · [woodesk.mk](https://woodesk.mk) · Оперативен систем за управување со WooCommerce · LIVE
+
+**Workplace / Frilenseri:** [workplace.mk](https://workplace.mk) · [frilenseri.mk](https://frilenseri.mk) · два домена, една фриленс платформа.
