@@ -1,3 +1,5 @@
+[Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
+
 # STAMBOL DEV. — PROCESS IN
 
 **Основач на PROCESS IN · Софтверски инженер · Архитект на SaaS производи**
